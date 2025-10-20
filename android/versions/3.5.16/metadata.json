@@ -1,0 +1,14 @@
+{
+  "version": "3.5.16",
+  "buildId": "20251020-121701",
+  "releaseDate": "2025-10-20T05:17:01Z",
+  "platform": "android",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "sha256-1d734d976db017ce1c530d8bbfc78f674be901ff7b04777b39e954cfbf47ea77",
+  "size": 81901356,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.5.16",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}

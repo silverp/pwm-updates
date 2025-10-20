@@ -14,28 +14,28 @@
 <body>
     <h1>🚀 PWM App Updates</h1>
     <p>This is the update server for the Play with Me mobile app.</p>
-    
+
     <div class="platform">
         <h2>📱 Android</h2>
         <p>Latest version: <span id="android-version">Loading...</span></p>
         <p><a href="./android/manifest.json">View Android Manifest</a></p>
     </div>
-    
+
     <div class="platform">
         <h2>🍎 iOS</h2>
         <p>Latest version: <span id="ios-version">Loading...</span></p>
         <p><a href="./ios/manifest.json">View iOS Manifest</a></p>
     </div>
-    
+
     <h3>📋 API Usage</h3>
     <pre>
 # Check for Android updates
 curl https://silverp.github.io/pwm-updates/android/manifest.json
 
-# Check for iOS updates  
+# Check for iOS updates
 curl https://silverp.github.io/pwm-updates/ios/manifest.json
     </pre>
-    
+
     <script>
         ['android', 'ios'].forEach(platform => {
             fetch(`./${platform}/manifest.json`)

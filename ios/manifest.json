@@ -1,18 +1,19 @@
 {
   "appId": "pwm-app-updates",
   "platform": "ios",
-  "latestVersion": "3.5.15",
+  "latestVersion": "3.5.16",
   "channel": "production",
   "versions": {
-    "3.5.15": {
-      "version": "3.5.15",
-      "buildId": "20251020-105827",
-      "releaseDate": "2025-10-20T03:58:27Z",
-      "downloadUrl": "./versions/3.5.15/bundle.zip",
-      "checksumSHA256": "sha256-f808dd9dda4bd4468bb7ec49a5bc7b8ba3f03d5df87496830ce83278c833a5c3",
-      "size": 81898098,
+    "3.5.16": {
+      "version": "3.5.16",
+      "buildId": "20251020-121706",
+      "releaseDate": "2025-10-20T05:17:06Z",
+      "downloadUrl": "./versions/3.5.16/bundle.zip",
+      "checksumSHA256": "sha256-2e9a62834dbe3dfdc19f8351d39856e447120f576191547eb5e2a2982c22f26a",
+      "size": 81901356,
       "isRequired": false,
-      "releaseNotes": "Update for version 3.5.15"
+      "releaseNotes": "[0;32m📝 Release notes loaded for ios v3.5.16[0m
+Version 3.5.16 includes new game features and performance improvements."
     }
   },
   "minimumVersion": "3.5.0",
