@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PWM Updates</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin: 40px; }
+        .platform { margin: 20px 0; padding: 20px; border: 1px solid #ddd; border-radius: 8px; }
+        .version { font-size: 18px; font-weight: bold; color: #0066cc; }
+        pre { background: #f5f5f5; padding: 10px; border-radius: 4px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>🚀 PWM App Updates</h1>
+    <p>This is the update server for the Play with Me mobile app.</p>
+    
+    <div class="platform">
+        <h2>📱 Android</h2>
+        <p>Latest version: <span id="android-version">Loading...</span></p>
+        <p><a href="./android/manifest.json">View Android Manifest</a></p>
+    </div>
+    
+    <div class="platform">
+        <h2>🍎 iOS</h2>
+        <p>Latest version: <span id="ios-version">Loading...</span></p>
+        <p><a href="./ios/manifest.json">View iOS Manifest</a></p>
+    </div>
+    
+    <h3>📋 API Usage</h3>
+    <pre>
+# Check for Android updates
+curl https://silverp.github.io/pwm-updates/android/manifest.json
+
+# Check for iOS updates  
+curl https://silverp.github.io/pwm-updates/ios/manifest.json
+    </pre>
+    
+    <script>
+        ['android', 'ios'].forEach(platform => {
+            fetch(`./${platform}/manifest.json`)
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById(`${platform}-version`).textContent = data.latestVersion;
+                })
+                .catch(error => {
+                    document.getElementById(`${platform}-version`).textContent = 'Error loading version';
+                });
+        });
+    </script>
+</body>
+</html>
