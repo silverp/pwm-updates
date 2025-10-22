@@ -6,11 +6,11 @@
   "versions": {
     "3.5.17": {
       "version": "3.5.17",
-      "buildId": "20251022-090126",
-      "releaseDate": "2025-10-22T02:01:26Z",
+      "buildId": "20251022-091723",
+      "releaseDate": "2025-10-22T02:17:23Z",
       "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.17/android-bundle-3.5.17.zip",
-      "checksumSHA256": "wk3M6IqFw1shgq6olhnk/VaSfBlbs6NmEOGzbbxC83U=",
-      "size": 81900500,
+      "checksumSHA256": "/4okIS9UPVD3Ch4BPrXMcyY+xZgkI21Pr6fcvaWEbYo=",
+      "size": 81900497,
       "isRequired": false,
       "releaseNotes": "Update for version 3.5.17"
     }
