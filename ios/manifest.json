@@ -6,11 +6,11 @@
   "versions": {
     "3.5.17": {
       "version": "3.5.17",
-      "buildId": "20251020-190757",
-      "releaseDate": "2025-10-20T12:07:57Z",
+      "buildId": "20251022-080602",
+      "releaseDate": "2025-10-22T01:06:02Z",
       "downloadUrl": "./versions/3.5.17/bundle.zip",
-      "checksumSHA256": "DbSqo+vCO9RqJ7uH0uIXvhQNqlyoOASJKGdAqqb8iXo=",
-      "size": 82516004,
+      "checksumSHA256": "sha256-a59c38dfdc6e11bb199a217748272fb3ae616546d8dbb0dcf3068f7e43a11797",
+      "size": 83129616,
       "isRequired": false,
       "releaseNotes": "Version 3.5.17 includes update service improvements, new API integration, and duplicate popup prevention."
     }
