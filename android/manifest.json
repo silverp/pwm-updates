@@ -9,7 +9,7 @@
       "buildId": "20251022-091723",
       "releaseDate": "2025-10-22T02:17:23Z",
       "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.17/android-bundle-3.5.17.zip",
-      "checksumSHA256": "/4okIS9UPVD3Ch4BPrXMcyY+xZgkI21Pr6fcvaWEbYo=",
+            "checksumSHA256": "ff8a24212f543d50f70a1e013eb5cc73263ec59824236d4fafa7dcbda5846d8a",
       "size": 81900497,
       "isRequired": false,
       "releaseNotes": "Update for version 3.5.17"
