@@ -1,0 +1,6 @@
+# Exclude bundle zip files (hosted on GitHub Releases)
+*/versions/*/bundle.zip
+
+# Keep metadata and manifests
+!*/versions/*/metadata.json
+!*/manifest.json
