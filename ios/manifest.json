@@ -1,28 +1,28 @@
 {
   "appId": "pwm-app-updates",
   "platform": "ios",
-  "latestVersion": "3.5.18",
+  "latestVersion": "3.5.17",
   "channel": "production",
   "versions": {
-    "3.5.18": {
-      "version": "3.5.18",
-      "buildId": "20251027-155926",
-      "releaseDate": "2025-10-27T08:59:26Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.18/ios-bundle-3.5.18.zip",
-      "checksumSHA256": "2889c17160ad18b4c9719bdd384ca08a009f7187d717040e4ebec49cf3dad711",
-      "size": 81903615,
-      "isRequired": false,
-      "releaseNotes": "Update for version 3.5.18"
-    },
     "3.5.17": {
       "version": "3.5.17",
+      "buildId": "20251027-162453",
+      "releaseDate": "2025-10-27T09:24:53Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.17/ios-bundle-3.5.17.zip",
+      "checksumSHA256": "f527f81c0412fa1fb940f9fcaf1d56afe6e5826c372ea2a9c2891686e7dcdcd0",
+      "size": 81903605,
+      "isRequired": false,
+      "releaseNotes": "Update for version 3.5.17"
+    },
+    "3.5.18": {
+      "version": "3.5.18",
       "buildId": "unknown",
-      "releaseDate": "2025-10-27T08:59:26Z",
-      "downloadUrl": "./versions/3.5.17/bundle.zip",
+      "releaseDate": "2025-10-27T09:24:53Z",
+      "downloadUrl": "./versions/3.5.18/bundle.zip",
       "checksumSHA256": "",
       "size": 0,
       "isRequired": false,
-      "releaseNotes": "Update for version 3.5.17"
+      "releaseNotes": "Update for version 3.5.18"
     }
   },
   "minimumVersion": "3.5.0",
