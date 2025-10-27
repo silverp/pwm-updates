@@ -1,11 +1,11 @@
 {
   "version": "3.5.17",
-  "buildId": "20251027-142328",
-  "releaseDate": "2025-10-27T07:23:28Z",
+  "buildId": "20251027-145044",
+  "releaseDate": "2025-10-27T07:50:44Z",
   "platform": "android",
   "downloadUrl": "./bundle.zip",
-  "checksumSHA256": "2df89861848dc73cecea1cc8a18df0810963bd69ed4c3488d6b22c06c1472267",
-  "size": 81903704,
+  "checksumSHA256": "3a7085111158e2bc1a51998d56891ba343e03a6d511ccc15f7d50ac1e59da445",
+  "size": 81903725,
   "isRequired": false,
   "releaseNotes": "Update for version 3.5.17",
   "compatibility": {
