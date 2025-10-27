@@ -1,11 +1,11 @@
 {
   "version": "3.5.18",
-  "buildId": "20251027-145530",
-  "releaseDate": "2025-10-27T07:55:30Z",
+  "buildId": "20251027-151141",
+  "releaseDate": "2025-10-27T08:11:41Z",
   "platform": "android",
   "downloadUrl": "./bundle.zip",
-  "checksumSHA256": "a2e0ee3bfac5f99ca5cba55727a4ecf6074acd3fc115b9ae82b04b16c6cb030f",
-  "size": 81903723,
+  "checksumSHA256": "900372bd6802e776fb45fc09c99868957a664db06912c78eaf239e096e8121c6",
+  "size": 81903738,
   "isRequired": false,
   "releaseNotes": "Update for version 3.5.18",
   "compatibility": {

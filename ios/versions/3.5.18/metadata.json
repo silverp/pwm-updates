@@ -1,11 +1,11 @@
 {
   "version": "3.5.18",
-  "buildId": "20251027-145538",
-  "releaseDate": "2025-10-27T07:55:38Z",
+  "buildId": "20251027-151147",
+  "releaseDate": "2025-10-27T08:11:47Z",
   "platform": "ios",
   "downloadUrl": "./bundle.zip",
-  "checksumSHA256": "b38bf404c01691d4b35bc973a30732f4f2f9611720c242ee918c597c7f75ef34",
-  "size": 81903723,
+  "checksumSHA256": "5c15afc4d5cc1cdc20e20b1bfed123d35361ae199e2b88ec019d545cad01b643",
+  "size": 81903738,
   "isRequired": false,
   "releaseNotes": "Update for version 3.5.18",
   "compatibility": {
