@@ -1,28 +1,28 @@
 {
   "appId": "pwm-app-updates",
   "platform": "android",
-  "latestVersion": "3.5.17",
+  "latestVersion": "3.5.18",
   "channel": "production",
   "versions": {
-    "3.5.17": {
-      "version": "3.5.17",
-      "buildId": "20251027-162446",
-      "releaseDate": "2025-10-27T09:24:46Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.17/android-bundle-3.5.17.zip",
-      "checksumSHA256": "a7aa89fa29ec84faecfc6d9185022caa08080ac62adb647ae5187756c7e21531",
-      "size": 81903605,
-      "isRequired": false,
-      "releaseNotes": "Update for version 3.5.17"
-    },
     "3.5.18": {
       "version": "3.5.18",
+      "buildId": "20251027-171018",
+      "releaseDate": "2025-10-27T10:10:18Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.18/android-bundle-3.5.18.zip",
+      "checksumSHA256": "16946b48ab840f85c2efbe8f73c968be901715792e6002531375f6197940846e",
+      "size": 81903613,
+      "isRequired": false,
+      "releaseNotes": "Update for version 3.5.18"
+    },
+    "3.5.17": {
+      "version": "3.5.17",
       "buildId": "unknown",
-      "releaseDate": "2025-10-27T09:24:47Z",
-      "downloadUrl": "./versions/3.5.18/bundle.zip",
+      "releaseDate": "2025-10-27T10:10:19Z",
+      "downloadUrl": "./versions/3.5.17/bundle.zip",
       "checksumSHA256": "",
       "size": 0,
       "isRequired": false,
-      "releaseNotes": "Update for version 3.5.18"
+      "releaseNotes": "Update for version 3.5.17"
     }
   },
   "minimumVersion": "3.5.0",
