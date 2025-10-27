@@ -1,11 +1,11 @@
 {
   "version": "3.5.17",
-  "buildId": "20251027-153359",
-  "releaseDate": "2025-10-27T08:33:59Z",
+  "buildId": "20251027-155313",
+  "releaseDate": "2025-10-27T08:53:13Z",
   "platform": "ios",
   "downloadUrl": "./bundle.zip",
-  "checksumSHA256": "5d0e35de340c6215cedccd5c5d808e2caa436477a3b682240f6ece6268343435",
-  "size": 81903600,
+  "checksumSHA256": "f8141e43131f1fd52a8f784098053a5b1bf3d997dd41604d9737a5bb5c178e6b",
+  "size": 81903604,
   "isRequired": false,
   "releaseNotes": "Update for version 3.5.17",
   "compatibility": {
