@@ -1,0 +1,14 @@
+{
+  "version": "3.5.20",
+  "buildId": "20251104-145256",
+  "releaseDate": "2025-11-04T07:52:56Z",
+  "platform": "ios",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "60460cba5a20c5b72a851996a6186ed1745e68c5ec0a5787b1fd297483054bf4",
+  "size": 81903081,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.5.20",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}
