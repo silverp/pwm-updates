@@ -6,18 +6,18 @@
   "versions": {
     "3.5.20": {
       "version": "3.5.20",
-      "buildId": "20251104-145249",
-      "releaseDate": "2025-11-04T07:52:49Z",
+      "buildId": "20251104-145920",
+      "releaseDate": "2025-11-04T07:59:20Z",
       "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.20/android-bundle-3.5.20.zip",
-      "checksumSHA256": "dc7fdce30d443882ebca41470c7ef046682efaf48b797f5ae3fd4ec6849c8f15",
-      "size": 81903081,
+      "checksumSHA256": "09bfd979c8b65357186bad89a6147d63007b98ca41c42ff26e18fc6d6dd6968a",
+      "size": 81903091,
       "isRequired": false,
       "releaseNotes": "Update for version 3.5.20"
     },
     "3.5.19": {
       "version": "3.5.19",
       "buildId": "unknown",
-      "releaseDate": "2025-11-04T07:52:49Z",
+      "releaseDate": "2025-11-04T07:59:20Z",
       "downloadUrl": "./versions/3.5.19/bundle.zip",
       "checksumSHA256": "",
       "size": 0,
