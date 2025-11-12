@@ -1,23 +1,23 @@
 {
   "appId": "pwm-app-updates",
   "platform": "android",
-  "latestVersion": "3.5.23",
+  "latestVersion": "3.5.24",
   "channel": "production",
   "versions": {
-    "3.5.23": {
-      "version": "3.5.23",
-      "buildId": "20251112-093710",
-      "releaseDate": "2025-11-12T02:37:10Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.23/android-bundle-3.5.23.zip",
-      "checksumSHA256": "19dcca94eb1e060faccc170ccf8735143969bc04a98a26fc53468ce62d0a64e9",
-      "size": 81904286,
+    "3.5.24": {
+      "version": "3.5.24",
+      "buildId": "20251112-142353",
+      "releaseDate": "2025-11-12T07:23:53Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.24/android-bundle-3.5.24.zip",
+      "checksumSHA256": "1f582a8eefe44bafde91ce4391626481dd5cde6365c55cfe18f7cba67660172f",
+      "size": 81904954,
       "isRequired": false,
-      "releaseNotes": "Update for version 3.5.23"
+      "releaseNotes": "Update for version 3.5.24"
     },
     "3.5.21": {
       "version": "3.5.21",
       "buildId": "unknown",
-      "releaseDate": "2025-11-12T02:37:10Z",
+      "releaseDate": "2025-11-12T07:23:53Z",
       "downloadUrl": "./versions/3.5.21/bundle.zip",
       "checksumSHA256": "",
       "size": 0,

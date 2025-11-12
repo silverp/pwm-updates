@@ -1,23 +1,23 @@
 {
   "appId": "pwm-app-updates",
   "platform": "ios",
-  "latestVersion": "3.5.23",
+  "latestVersion": "3.5.24",
   "channel": "production",
   "versions": {
-    "3.5.23": {
-      "version": "3.5.23",
-      "buildId": "20251112-093715",
-      "releaseDate": "2025-11-12T02:37:15Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.23/ios-bundle-3.5.23.zip",
-      "checksumSHA256": "f42e91ad7292ba0365b21c246725097701530bc21705b1c69562bf024990c766",
-      "size": 81904286,
+    "3.5.24": {
+      "version": "3.5.24",
+      "buildId": "20251112-142359",
+      "releaseDate": "2025-11-12T07:23:59Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.24/ios-bundle-3.5.24.zip",
+      "checksumSHA256": "1f582a8eefe44bafde91ce4391626481dd5cde6365c55cfe18f7cba67660172f",
+      "size": 81904954,
       "isRequired": false,
-      "releaseNotes": "Update for version 3.5.23"
+      "releaseNotes": "Update for version 3.5.24"
     },
     "3.5.21": {
       "version": "3.5.21",
       "buildId": "unknown",
-      "releaseDate": "2025-11-12T02:37:16Z",
+      "releaseDate": "2025-11-12T07:24:00Z",
       "downloadUrl": "./versions/3.5.21/bundle.zip",
       "checksumSHA256": "",
       "size": 0,

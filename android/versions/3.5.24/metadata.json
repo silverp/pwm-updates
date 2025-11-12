@@ -1,0 +1,14 @@
+{
+  "version": "3.5.24",
+  "buildId": "20251112-142353",
+  "releaseDate": "2025-11-12T07:23:53Z",
+  "platform": "android",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "1f582a8eefe44bafde91ce4391626481dd5cde6365c55cfe18f7cba67660172f",
+  "size": 81904954,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.5.24",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}
