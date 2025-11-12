@@ -6,18 +6,18 @@
   "versions": {
     "3.5.24": {
       "version": "3.5.24",
-      "buildId": "20251112-142359",
-      "releaseDate": "2025-11-12T07:23:59Z",
+      "buildId": "20251112-213556",
+      "releaseDate": "2025-11-12T14:35:56Z",
       "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.24/ios-bundle-3.5.24.zip",
-      "checksumSHA256": "1f582a8eefe44bafde91ce4391626481dd5cde6365c55cfe18f7cba67660172f",
-      "size": 81904954,
+      "checksumSHA256": "3e0c0521804798592505c644713e36421eb57f038e1cb5be9f2a73ba009a9d3a",
+      "size": 81905806,
       "isRequired": false,
       "releaseNotes": "Update for version 3.5.24"
     },
     "3.5.21": {
       "version": "3.5.21",
       "buildId": "unknown",
-      "releaseDate": "2025-11-12T07:24:00Z",
+      "releaseDate": "2025-11-12T14:35:56Z",
       "downloadUrl": "./versions/3.5.21/bundle.zip",
       "checksumSHA256": "",
       "size": 0,
