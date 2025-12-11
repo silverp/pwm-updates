@@ -1,0 +1,14 @@
+{
+  "version": "3.5.25",
+  "buildId": "20251211-084625",
+  "releaseDate": "2025-12-11T01:46:25Z",
+  "platform": "ios",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "83fb94d716cb5d6b12b21706f819e4eed43acbb2aa24748f09ed270772a60ea1",
+  "size": 81908583,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.5.25",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}
