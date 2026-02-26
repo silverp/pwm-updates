@@ -1,11 +1,11 @@
 {
   "version": "3.6.3",
-  "buildId": "20260226-142834",
-  "releaseDate": "2026-02-26T07:28:34Z",
+  "buildId": "20260226-145751",
+  "releaseDate": "2026-02-26T07:57:51Z",
   "platform": "ios",
   "downloadUrl": "./bundle.zip",
-  "checksumSHA256": "e92d4c67db8ee72f99bcf93570eb2a546ace28ca5d0944b1de2121da70e3d620",
-  "size": 81918064,
+  "checksumSHA256": "a85e9346822899d497163566fbcbe8a98b7bc73b9a27abc5844cca93eb046c0f",
+  "size": 81918533,
   "isRequired": false,
   "releaseNotes": "Update for version 3.6.3",
   "compatibility": {
