@@ -1,23 +1,23 @@
 {
   "appId": "pwm-app-updates",
   "platform": "android",
-  "latestVersion": "3.5.27",
+  "latestVersion": "3.6.3",
   "channel": "production",
   "versions": {
-    "3.5.27": {
-      "version": "3.5.27",
-      "buildId": "20251222-091737",
-      "releaseDate": "2025-12-22T02:17:37Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.5.27/android-bundle-3.5.27.zip",
-      "checksumSHA256": "f94c0180c985e31966135742f8f4c60b2509e828b4cfeaf2df40d63573691053",
-      "size": 81913766,
+    "3.6.3": {
+      "version": "3.6.3",
+      "buildId": "20260226-142832",
+      "releaseDate": "2026-02-26T07:28:32Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.6.3/android-bundle-3.6.3.zip",
+      "checksumSHA256": "7aba9d353f0c7f78f336c65082304be27b90bafbca6aff7f96d5b1fe0edd1a76",
+      "size": 81918064,
       "isRequired": false,
-      "releaseNotes": "Update for version 3.5.27"
+      "releaseNotes": "Update for version 3.6.3"
     },
     "3.5.24": {
       "version": "3.5.24",
       "buildId": "unknown",
-      "releaseDate": "2025-12-22T02:17:37Z",
+      "releaseDate": "2026-02-26T07:28:32Z",
       "downloadUrl": "./versions/3.5.24/bundle.zip",
       "checksumSHA256": "",
       "size": 0,
