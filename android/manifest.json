@@ -1,28 +1,28 @@
 {
   "appId": "pwm-app-updates",
   "platform": "android",
-  "latestVersion": "3.6.3",
+  "latestVersion": "3.6.30",
   "channel": "production",
   "versions": {
+    "3.6.30": {
+      "version": "3.6.30",
+      "buildId": "20260407-190738",
+      "releaseDate": "2026-04-07T12:07:38Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.6.30/android-bundle-3.6.30.zip",
+      "checksumSHA256": "906637bddf0006b83446a8f75c7b89fba2858eae67b0875d7b379dab954e3c85",
+      "size": 81918598,
+      "isRequired": false,
+      "releaseNotes": "Update for version 3.6.30"
+    },
     "3.6.3": {
       "version": "3.6.3",
-      "buildId": "20260226-145749",
-      "releaseDate": "2026-02-26T07:57:49Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.6.3/android-bundle-3.6.3.zip",
-      "checksumSHA256": "476ce41f655198cb5bb1d6fb9a910c209e073d7d43c1818847b6f397fb5c9591",
-      "size": 81918533,
-      "isRequired": false,
-      "releaseNotes": "Update for version 3.6.3"
-    },
-    "3.5.24": {
-      "version": "3.5.24",
       "buildId": "unknown",
-      "releaseDate": "2026-02-26T07:57:49Z",
-      "downloadUrl": "./versions/3.5.24/bundle.zip",
+      "releaseDate": "2026-04-07T12:07:38Z",
+      "downloadUrl": "./versions/3.6.3/bundle.zip",
       "checksumSHA256": "",
       "size": 0,
       "isRequired": false,
-      "releaseNotes": "Update for version 3.5.24"
+      "releaseNotes": "Update for version 3.6.3"
     }
   },
   "minimumVersion": "3.5.0",
