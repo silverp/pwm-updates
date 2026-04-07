@@ -1,0 +1,14 @@
+{
+  "version": "3.6.31",
+  "buildId": "20260407-194418",
+  "releaseDate": "2026-04-07T12:44:18Z",
+  "platform": "android",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "b8d563116353a19ff79718eb20159b127cfd08ed209c00dc52e287c76c801ddf",
+  "size": 81918590,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.6.31",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}
