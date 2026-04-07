@@ -1,28 +1,28 @@
 {
   "appId": "pwm-app-updates",
   "platform": "ios",
-  "latestVersion": "3.6.31",
+  "latestVersion": "3.6.32",
   "channel": "production",
   "versions": {
+    "3.6.32": {
+      "version": "3.6.32",
+      "buildId": "20260407-195039",
+      "releaseDate": "2026-04-07T12:50:39Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.6.32/ios-bundle-3.6.32.zip",
+      "checksumSHA256": "e12e31efdd459206a008b0f218120e3baf48b27e5f84746934390aee1460ef05",
+      "size": 81918597,
+      "isRequired": false,
+      "releaseNotes": "Update for version 3.6.32"
+    },
     "3.6.31": {
       "version": "3.6.31",
-      "buildId": "20260407-194421",
-      "releaseDate": "2026-04-07T12:44:21Z",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/silverp/pwm-updates@v3.6.31/ios/versions/3.6.31/bundle.zip",
-      "checksumSHA256": "cb2c65582a9a013fd92e4792194ed37374abfaaa8c7678b67c762f5e89ece5d8",
-      "size": 81918590,
-      "isRequired": false,
-      "releaseNotes": "Update for version 3.6.31"
-    },
-    "3.6.30": {
-      "version": "3.6.30",
       "buildId": "unknown",
-      "releaseDate": "2026-04-07T12:44:22Z",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/silverp/pwm-updates@v3.6.30/ios/versions/3.6.30/bundle.zip",
+      "releaseDate": "2026-04-07T12:50:39Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.6.31/ios-bundle-3.6.31.zip",
       "checksumSHA256": "",
       "size": 0,
       "isRequired": false,
-      "releaseNotes": "Update for version 3.6.30"
+      "releaseNotes": "Update for version 3.6.31"
     }
   },
   "minimumVersion": "3.5.0",
