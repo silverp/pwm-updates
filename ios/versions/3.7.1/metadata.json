@@ -1,0 +1,14 @@
+{
+  "version": "3.7.1",
+  "buildId": "20260409-201113",
+  "releaseDate": "2026-04-09T13:11:13Z",
+  "platform": "ios",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "e397049713ba1da6ec65623ba4c7bdeb6f6d9a80aa3cbb01b64815727bbf5590",
+  "size": 81919567,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.7.1",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}
