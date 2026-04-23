@@ -1,28 +1,28 @@
 {
   "appId": "pwm-app-updates",
   "platform": "android",
-  "latestVersion": "3.7.3",
+  "latestVersion": "3.7.4",
   "channel": "production",
   "versions": {
+    "3.7.4": {
+      "version": "3.7.4",
+      "buildId": "20260423-181327",
+      "releaseDate": "2026-04-23T11:13:27Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.7.4/android-bundle-3.7.4.zip",
+      "checksumSHA256": "5dd67af5c2aa89a02fc89fdc4dfa6482dbc6bfe5e9d6061c7e89e3eb7e8bb0d4",
+      "size": 81920801,
+      "isRequired": false,
+      "releaseNotes": "Update for version 3.7.4"
+    },
     "3.7.3": {
       "version": "3.7.3",
-      "buildId": "20260423-175554",
-      "releaseDate": "2026-04-23T10:55:54Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.7.3/android-bundle-3.7.3.zip",
-      "checksumSHA256": "36dd69f9b6a1830349cb2c5315fd70824cba6fad77e0c576db008042705b0152",
-      "size": 81920803,
-      "isRequired": false,
-      "releaseNotes": "Update for version 3.7.3"
-    },
-    "3.7.1": {
-      "version": "3.7.1",
       "buildId": "unknown",
-      "releaseDate": "2026-04-23T10:55:54Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.7.1/android-bundle-3.7.1.zip",
+      "releaseDate": "2026-04-23T11:13:27Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.7.3/android-bundle-3.7.3.zip",
       "checksumSHA256": "",
       "size": 0,
       "isRequired": false,
-      "releaseNotes": "Update for version 3.7.1"
+      "releaseNotes": "Update for version 3.7.3"
     }
   },
   "minimumVersion": "3.5.0",

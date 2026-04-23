@@ -1,0 +1,14 @@
+{
+  "version": "3.7.4",
+  "buildId": "20260423-181327",
+  "releaseDate": "2026-04-23T11:13:27Z",
+  "platform": "android",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "5dd67af5c2aa89a02fc89fdc4dfa6482dbc6bfe5e9d6061c7e89e3eb7e8bb0d4",
+  "size": 81920801,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.7.4",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}
