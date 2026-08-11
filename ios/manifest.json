@@ -1,28 +1,28 @@
 {
   "appId": "pwm-app-updates",
   "platform": "ios",
-  "latestVersion": "3.8.7",
+  "latestVersion": "3.8.8",
   "channel": "production",
   "versions": {
+    "3.8.8": {
+      "version": "3.8.8",
+      "buildId": "20260811-182032",
+      "releaseDate": "2026-08-11T11:20:32Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.8.8/ios-bundle-3.8.8.zip",
+      "checksumSHA256": "2762aa327d1b5e8e07decbbc3ec7463085d251eabe59aeacf04324d6ff511076",
+      "size": 81905634,
+      "isRequired": false,
+      "releaseNotes": "Update for version 3.8.8"
+    },
     "3.8.7": {
       "version": "3.8.7",
-      "buildId": "20260811-180831",
-      "releaseDate": "2026-08-11T11:08:31Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.8.7/ios-bundle-3.8.7.zip",
-      "checksumSHA256": "c96d1e23f68f6e2058d9123d72484e67c826ad70eb71e7626a8ab66110d1bfa7",
-      "size": 81905623,
-      "isRequired": false,
-      "releaseNotes": "Update for version 3.8.7"
-    },
-    "3.8.6": {
-      "version": "3.8.6",
       "buildId": "unknown",
-      "releaseDate": "2026-08-11T11:08:31Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.8.6/ios-bundle-3.8.6.zip",
+      "releaseDate": "2026-08-11T11:20:33Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.8.7/ios-bundle-3.8.7.zip",
       "checksumSHA256": "",
       "size": 0,
       "isRequired": false,
-      "releaseNotes": "Update for version 3.8.6"
+      "releaseNotes": "Update for version 3.8.7"
     }
   },
   "minimumVersion": "3.5.0",
