@@ -1,28 +1,28 @@
 {
   "appId": "pwm-app-updates",
   "platform": "android",
-  "latestVersion": "3.8.8",
+  "latestVersion": "3.8.9",
   "channel": "production",
   "versions": {
+    "3.8.9": {
+      "version": "3.8.9",
+      "buildId": "20260811-185958",
+      "releaseDate": "2026-08-11T11:59:58Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.8.9/android-bundle-3.8.9.zip",
+      "checksumSHA256": "b29daea2c71736675f480b4cb6b5574c9115b3d010266bb90fd406613e94af89",
+      "size": 81905734,
+      "isRequired": false,
+      "releaseNotes": "Update for version 3.8.9"
+    },
     "3.8.8": {
       "version": "3.8.8",
-      "buildId": "20260811-182029",
-      "releaseDate": "2026-08-11T11:20:29Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.8.8/android-bundle-3.8.8.zip",
-      "checksumSHA256": "2762aa327d1b5e8e07decbbc3ec7463085d251eabe59aeacf04324d6ff511076",
-      "size": 81905634,
-      "isRequired": false,
-      "releaseNotes": "Update for version 3.8.8"
-    },
-    "3.8.7": {
-      "version": "3.8.7",
       "buildId": "unknown",
-      "releaseDate": "2026-08-11T11:20:29Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.8.7/android-bundle-3.8.7.zip",
+      "releaseDate": "2026-08-11T11:59:58Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.8.8/android-bundle-3.8.8.zip",
       "checksumSHA256": "",
       "size": 0,
       "isRequired": false,
-      "releaseNotes": "Update for version 3.8.7"
+      "releaseNotes": "Update for version 3.8.8"
     }
   },
   "minimumVersion": "3.5.0",
