@@ -1,0 +1,14 @@
+{
+  "version": "3.8.11",
+  "buildId": "20260811-193534",
+  "releaseDate": "2026-08-11T12:35:34Z",
+  "platform": "ios",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "dec0f0fc1405ee1796f0605b82715ed718aab6ea91409fa1ff255bde6c21f5ce",
+  "size": 81905348,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.8.11",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}
