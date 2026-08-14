@@ -1,9 +1,19 @@
 {
   "appId": "pwm-app-updates",
   "platform": "ios",
-  "latestVersion": "3.9.3",
+  "latestVersion": "3.9.4",
   "channel": "production",
   "versions": {
+    "3.9.4": {
+      "version": "3.9.4",
+      "buildId": "20260814-233406",
+      "releaseDate": "2026-08-14T16:34:06Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.9.4/ios-bundle-3.9.4.zip",
+      "checksumSHA256": "2c8638bb89abf6e4c19093b595b20c66aac404feb3f969d8ef5f1008e1e86573",
+      "size": 81937307,
+      "isRequired": false,
+      "releaseNotes": "Update for version 3.9.4"
+    },
     "3.9.3": {
       "version": "3.9.3",
       "buildId": "20260814-225449",
@@ -13,16 +23,6 @@
       "size": 81937300,
       "isRequired": false,
       "releaseNotes": "Update for version 3.9.3"
-    },
-    "3.8.9": {
-      "version": "3.8.9",
-      "buildId": "20260811-190001",
-      "releaseDate": "2026-08-11T12:00:01Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.8.9/ios-bundle-3.8.9.zip",
-      "checksumSHA256": "b29daea2c71736675f480b4cb6b5574c9115b3d010266bb90fd406613e94af89",
-      "size": 81905734,
-      "isRequired": false,
-      "releaseNotes": "Update for version 3.8.9"
     }
   },
   "minimumVersion": "3.5.0",
