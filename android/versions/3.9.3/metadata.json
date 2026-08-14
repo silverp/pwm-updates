@@ -1,0 +1,14 @@
+{
+  "version": "3.9.3",
+  "buildId": "20260814-225446",
+  "releaseDate": "2026-08-14T15:54:46Z",
+  "platform": "android",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "b3fa1be0c7dfe51bae296e2851f339e8e0e29957bf3b5cb52fddf25714f83150",
+  "size": 81937300,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.9.3",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}
