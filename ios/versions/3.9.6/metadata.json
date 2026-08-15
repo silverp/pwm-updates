@@ -1,0 +1,14 @@
+{
+  "version": "3.9.6",
+  "buildId": "20260815-081008",
+  "releaseDate": "2026-08-15T01:10:08Z",
+  "platform": "ios",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "f6bd6b4cd8a6e1522f57af616ced997760828aeca74a2cc92bf64f87bb79f722",
+  "size": 81936548,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.9.6",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}

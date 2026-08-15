@@ -1,0 +1,14 @@
+{
+  "version": "3.9.6",
+  "buildId": "20260815-081006",
+  "releaseDate": "2026-08-15T01:10:06Z",
+  "platform": "android",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "0c82d94b26df16dbcf567eb0f92bd5d5e994b8b89a85b6a5efd60429d455efdf",
+  "size": 81936548,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.9.6",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}
