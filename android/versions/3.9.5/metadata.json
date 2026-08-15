@@ -1,0 +1,14 @@
+{
+  "version": "3.9.5",
+  "buildId": "20260815-074319",
+  "releaseDate": "2026-08-15T00:43:19Z",
+  "platform": "android",
+  "downloadUrl": "./bundle.zip",
+  "checksumSHA256": "c079abb96b8a6fe84130b0b014178883ec12dfc0109d996e433b703333ff36a7",
+  "size": 81936514,
+  "isRequired": false,
+  "releaseNotes": "Update for version 3.9.5",
+  "compatibility": {
+    "minimumAppVersion": "3.5.0"
+  }
+}
