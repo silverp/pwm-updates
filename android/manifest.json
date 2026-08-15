@@ -1,9 +1,19 @@
 {
   "appId": "pwm-app-updates",
   "platform": "android",
-  "latestVersion": "3.9.6",
+  "latestVersion": "3.9.7",
   "channel": "production",
   "versions": {
+    "3.9.7": {
+      "version": "3.9.7",
+      "buildId": "20260815-083658",
+      "releaseDate": "2026-08-15T01:36:58Z",
+      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.9.7/android-bundle-3.9.7.zip",
+      "checksumSHA256": "cb1e6eeff392e782a6ef279e387967a40a71287b249fce3e80d5060dc0e9bba1",
+      "size": 81936782,
+      "isRequired": false,
+      "releaseNotes": "Update for version 3.9.7"
+    },
     "3.9.6": {
       "version": "3.9.6",
       "buildId": "20260815-081006",
@@ -13,16 +23,6 @@
       "size": 81936548,
       "isRequired": false,
       "releaseNotes": "Update for version 3.9.6"
-    },
-    "3.9.5": {
-      "version": "3.9.5",
-      "buildId": "20260815-074319",
-      "releaseDate": "2026-08-15T00:43:19Z",
-      "downloadUrl": "https://github.com/silverp/pwm-updates/releases/download/v3.9.5/android-bundle-3.9.5.zip",
-      "checksumSHA256": "c079abb96b8a6fe84130b0b014178883ec12dfc0109d996e433b703333ff36a7",
-      "size": 81936514,
-      "isRequired": false,
-      "releaseNotes": "Update for version 3.9.5"
     }
   },
   "minimumVersion": "3.5.0",
